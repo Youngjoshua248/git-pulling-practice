@@ -1,4 +1,4 @@
 # git-pulling-practice
 Shared File
 
-Joshua Rule
+Ryan Rule
